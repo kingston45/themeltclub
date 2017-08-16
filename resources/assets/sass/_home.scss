@@ -1,0 +1,49 @@
+* {
+
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+body {
+
+  background: #c2d4d8;
+
+}
+
+.header {
+
+  height: 120px;
+  background: white;
+
+  .logo {
+
+    margin-top: 10px;
+
+  }
+
+  .nav {
+
+    float: right;
+    margin-top: 46px;
+
+    li {
+
+      list-style: none;
+      display: inline-block;
+      padding-left: 10px;
+      font-size: 18px;
+      color: #000;
+      font-weight: bold;
+
+    }
+
+  }
+
+}
+
+.footer {
+
+  background: #f2efe8;
+  height: 200px;
+
+}
